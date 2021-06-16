@@ -1,7 +1,7 @@
 # Hi, there! 👋
 
 ## My name is Victória Barkfeld
-## I am starting in front-end, learning **HTML - CSS and Javascript**.
+I am starting in front-end, learning **HTML - CSS and Javascript**.
 
 #Welcome to my GitHub profile!
 
