@@ -3,9 +3,11 @@
 <a href="https://github.com/vicbarkfeld" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
-<p align="left" > 
-  <b>Faaallaaa Makers!</b>
-</p>
+<div>
+  <a href="https://github.com/vicbarkfeld">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicbarkfeld&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicbarkfeld&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <a href="https://www.linkedin.com/in/victoria-barkfeld/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
@@ -33,12 +35,6 @@ E Aprendendo <b>Mobile com Kotlin</b>
   - Jogar jogos indie;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicbarkfeld&layout=compact&theme=graywhite&title_color=268bd2" alt="Victória Barkfeld" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicbarkfeld&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Victória Barkfeld" />
-</p>
 
 **Linguagens e ferramentas:**  
 
