@@ -13,9 +13,9 @@
 Me chamo <b> Victória C. Barkfeld</b>.
 </p>
 
-Atualmente moro em Viamão/RS-BR.<br />
-Estou me capacitando pela @Alura para me tornar uma <b>Desenvolvedora Front end </b>. <br />
-E Aprendendo <b>Mobile com Kotlin</b> na @Digital Inonvation one.
+
+Estou me capacitando para me tornar uma <b>Desenvolvedora Front end </b>. <br />
+E Aprendendo <b>Mobile com Kotlin</b>
 </p>
 
 <hr />
