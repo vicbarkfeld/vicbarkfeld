@@ -1,8 +1,5 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 <hr />
-<a href="https://github.com/vicbarkfeld" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
 <div>
   <a href="https://github.com/vicbarkfeld">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicbarkfeld&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
