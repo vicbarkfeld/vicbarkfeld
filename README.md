@@ -29,7 +29,7 @@ Estou me capacitando para me tornar uma Desenvolvedora Front end.
 </div>
 
 ##
-<img align="right" alt="Vic-gif" height="200" width="200" src="https://media.discordapp.net/attachments/858487256393580556/872577248182562816/output_YKMr2e.gif?width=424&height=424">
+<img align="right" alt="Vic-gif" height="200" width="200" src="https://github.com/egonelbre/gophers/raw/master/.thumb/animation/gopher-dance-long-3x.gif">
 *Meus interesses pessoais:*
 
 - 👩‍💻 Estou estudando frontend com *Javascript*;
