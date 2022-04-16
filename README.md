@@ -1,6 +1,6 @@
-## Oiii! Eu sou a Victória Barkfeld
+## Oiii! Eu sou a Vic Barkfeld <img align="center" alt="Vic-CSS" height="70" width="70" src="https://github.com/egonelbre/gophers/raw/master/.thumb/vector/arts/ballet.png" target="_blank"></a>
 
-Estou me capacitando para me tornar uma Desenvolvedora Front end.
+Sei que quero ser desenvolvedora e estou explorando esse universo doido, estudo os fundamentos do Front-end com JS desde abril/2021 e agora estou iniciando os estudos em GO! 
 
  <div>
   <a href="https://github.com/vicbarkfeld">
