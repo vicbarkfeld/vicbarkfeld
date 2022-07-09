@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Vic Barkfeld 
 
-Sei que quero ser desenvolvedora e estou explorando esse universo doido, estudo os fundamentos do Front-end com JS desde abril/2021 e agora estou iniciando os estudos em GO! 
+Me chamo Victória Cristina Barkfeld, tenho 25 anos e faço Publicidade e Propaganda e ADS. E a minha paixão é a TI, quero muito entrar na área do desenvolvimento e para isso estou estudando os fundamentos de algumas linguagens, como Java, Golang, ReactJs e Javascript.
 
  <div>
   <a href="https://github.com/vicbarkfeld">
