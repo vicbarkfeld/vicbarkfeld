@@ -32,12 +32,12 @@ Me chamo Victória Cristina Barkfeld, tenho 25 anos e faço Publicidade e Propag
 <img align="right" alt="Vic-gif" height="200" width="200" src="https://github.com/egonelbre/gophers/raw/master/.thumb/animation/gopher-dance-long-3x.gif">
 *Meus interesses pessoais:*
 
-- 👩‍💻 Estou estudando frontend com *Javascript*;
+- 👩‍💻 Estou estudando programação de forma autonoma desde de 2020, mas agora em 2022 que estou me dedicando mais e estudando de forma continua*;
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
-  - 🤓 Estudar melhores maneiras de otimizar paginas web; 
+  - 🤓 Brincar com meus 8 gatinhos; 
   - 📷 Tirar fotos;
-  - 📖 Ler livros;
-  - 🎮 Jogar jogos indie;
-- 💬 Gosto muito de conversar entao fique a vontade para me chamar.
+  - 📖 Ler muitos livros;
+  - 🎮 Não pode faltar o joguinho né;
+  - 💬 Gosto muito de conversar entao fique a vontade para me chamar nas minhas redes.
   
