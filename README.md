@@ -1,6 +1,7 @@
 ## Oiii! Eu sou a Vic Barkfeld 
 
-Me chamo Victória Cristina Barkfeld, tenho 25 anos e faço Publicidade e Propaganda e ADS. E a minha paixão é a TI, quero muito entrar na área do desenvolvimento e para isso estou estudando os fundamentos de algumas linguagens, como Java, Golang, ReactJs e Javascript.
+Me chamo Victória Cristina Barkfeld, tenho 25 anos, cursando Analise e Desenvolvimento de Sistemas. 
+Alem das linguagens que já estudei um pouco como Golang, React e JS estou focando nos cursos de Java e Mobile na Alura. 
 
  <div>
   <a href="https://github.com/vicbarkfeld">
