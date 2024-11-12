@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Vic Barkfeld 
 
-Me chamo Victória Cristina Barkfeld, tenho 25 anos, cursando Analise e Desenvolvimento de Sistemas. 
-Alem das linguagens que já estudei um pouco como Golang, React e JS estou focando nos cursos de Java e Mobile na Alura. 
+Me chamo Victória Cristina Barkfeld, tenho 27 anos, cursando Analise e Desenvolvimento de Sistemas. 
+Alem das linguagens que já estudei um pouco como Desenvolvimento Web, Android e APIs. 
 
  <div>
   <a href="https://github.com/vicbarkfeld">
